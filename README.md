@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🌟 Aayush Parmar - White-Vulpes 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/whitevulpes/)
