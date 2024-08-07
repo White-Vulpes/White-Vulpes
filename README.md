@@ -11,7 +11,7 @@ Welcome to the Sanctum of White-Vulpes, Discover Me. Explore my work and the adv
 
 ### 👨🏽‍🦱 Lets Start With An Awesome Introduction
 
-Hi 👋, I'm Aayush Parmar (aka Owner of White-Vulpes), where coding 🖥️ is my canvas. I'm currently crafting a cutting-edge Home Automation System with OpenThread technology with @chirag-parmar. A proud graduate of SRM University, Kattankulathur, I'm always ready for new challenges. Looking for a tech wizard? I'm open for hire and available for freelancing projects. Just hit me up on one of my contacts!
+Hi 👋, I'm **Aayush Parmar** (aka Owner of **The Sanctum of White-Vulpes**), where coding 🖥️ is my canvas. I'm currently crafting a cutting-edge Home Automation System with OpenThread technology with @chirag-parmar. A proud graduate of SRM University, Kattankulathur, I'm always ready for new challenges. Looking for a tech wizard? I'm open for hire and available for freelancing projects. Just hit me up on one of my contacts!
 
 ### 💼 Professional Adventures
 
